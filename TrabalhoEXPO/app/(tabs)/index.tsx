@@ -1,12 +1,12 @@
 import { View, StyleSheet, Platform} from 'react-native';
 
-import Button from '@/app-example/components/Button'; 
-import ImageViewer from '@/app-example/components/ImageViewer';
-import IconButton from '@/app-example/components/IconButton';
-import CircleButton from '@/app-example/components/CircleButton';
-import EmojiPicker from '@/app-example/components/EmojiPicker';
-import EmojiList from '@/app-example/components/EmojiList';
-import EmojiSticker from '@/app-example/components/EmojiSticker';
+import Button from '@/components/Button';
+import ImageViewer from '@/components/ImageViewer';
+import IconButton from '@/components/IconButton';
+import CircleButton from '@/components/CircleButton';
+import EmojiPicker from '@/components/EmojiPicker';
+import EmojiList from '@/components/EmojiList';
+import EmojiSticker from '@/components/EmojiSticker';
 
 import * as ImagePicker from 'expo-image-picker';
 import { type ImageSource } from 'expo-image';
