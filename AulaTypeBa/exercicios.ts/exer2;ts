@@ -1,0 +1,9 @@
+
+let cidades: string[] = ["São Paulo", "Socorro", "Nova Olinda(PB)", "Patos", "Praia Grande"];
+
+function listarCidades(cidades: string[]): void {
+    cidades.forEach(cidade => {
+        console.log(`Cidade: ${cidade}`);
+    });
+}
+listarCidades(cidades);
