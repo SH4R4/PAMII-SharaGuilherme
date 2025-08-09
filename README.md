@@ -1,4 +1,5 @@
-Repositório das aulas de Programação Mobile II com os professores João Siles e Najara Gabriela
+Repositório das aulas de Programação Mobile II com os professores João Siles e Najara Gabriela.
 
-Tive que criar um novo repositorio por problemas na configuração da minha maquina
+# Como fazer a criação de um projeto EXPO
 
+# Como fazer a clonagem do seu repositorio do github para a maquina
