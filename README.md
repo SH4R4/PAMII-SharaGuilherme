@@ -1,8 +1,15 @@
-<h4 align="center">Repositório das aulas de Programação Mobile II com os professores João Siles e Najara Gabriela.</h4>
-1. Escolha o repositorio a ser clonado em seu github. <br>
-2. Clique em _<> Code_ e copie o link https. <br>
+<h4 align="center">Repositório das aulas de Programação Mobile II com os professores João Siles e Najara Gabriela.</h4> 
 
 <h2 align="center">Clonagem do repositorio para a maquina </h2>
+
+1. Escola o repositorio a ser clonado em seu github. <br>
+
+2. Clique em "<> Code", prossifa na parte "local" e copie o link https. <Br>
+
+3. Use "cd + nome" para entrar em pasta especifica e "cd + .." para anular a ação, assim, escolha aonde deseja clonar seu repositorio. <br>
+
+4. tendo decidido, cole o link copiado anteriormente digitando "git clone e Shift + Insert"
+
 <h2 align="center"> criação e execução de um projeto EXPO </h2>
 <h4>Para a criação é necessario que va ate seu terminal e digite a seguinte configuração "npx create-expo-app@latest" <br>
   aperte enter e escolha o nome desejado para o seu projeto; <br>
