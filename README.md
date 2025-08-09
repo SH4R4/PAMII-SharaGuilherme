@@ -8,7 +8,7 @@ Repositório das aulas de Programação Mobile II com os professores João Siles
   
 <h2  align="center">Como "subir" as alterações feitas em seu codigo para o Github</h2>
 1. No terminal será preciso preencher duas informações previamente, elas são importantes para saber quem fez as alterações no projeto. <br>
- > git config --global user.name  (Nome de quem fez a alteração) <br>
- > git config --global user.email (e-mail do mesmo) <br>
+> git config --global user.name  (Nome de quem fez a alteração) <br>
+> git config --global user.email (e-mail do mesmo) <br>
 
 # Como fazer a clonagem do seu repositorio do github para a maquina
