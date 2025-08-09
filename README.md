@@ -5,5 +5,6 @@ Repositório das aulas de Programação Mobile II com os professores João Siles
   aperte enter e escolha o nome desejado para o seu projeto; <br>
   Para iniciar o servidor é preciso digitar "npx expo start"  </h4>
   (Caso apresente erro na iniciação tente utilizar "npm" no lugar de "npx") 
+<h2>Como executar seu projeto EXPO</h2>
 
 # Como fazer a clonagem do seu repositorio do github para a maquina
